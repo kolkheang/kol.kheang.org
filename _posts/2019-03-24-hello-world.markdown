@@ -6,4 +6,5 @@ categories: blog
 ---
 Hello World!
 
-I'm putting together a website using Jekyll, GitHub Pages and Travis-CI for site build, and deployment.
+I'm putting together a website using [Jekyll](https://jekyllrb.com/), [GitHub Pages](https://pages.github.com/) and [Travis-CI](https://travis-ci.org/) for site build, and deployment.
+
